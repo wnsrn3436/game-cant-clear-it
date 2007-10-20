@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="걷는" type="RESOURCE"/>
+  <resource name="저격" type="RESOURCE"/>
+  <resource name="적군죽는" type="RESOURCE"/>
+  <resource name="캐릭죽는" type="RESOURCE"/>
+</resources>

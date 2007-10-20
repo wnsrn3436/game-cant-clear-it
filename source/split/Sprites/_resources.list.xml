@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="달려" type="RESOURCE"/>
+  <resource name="보통" type="RESOURCE"/>
+  <resource name="왼달" type="RESOURCE"/>
+  <resource name="왼모" type="RESOURCE"/>
+  <resource name="돌" type="RESOURCE"/>
+  <resource name="저격" type="RESOURCE"/>
+  <resource name="적군" type="RESOURCE"/>
+  <resource name="피" type="RESOURCE"/>
+</resources>
